@@ -1,4 +1,4 @@
-PhoneNotifier-CSharp
+PhoneNotifier-Sharp
 ====================
 
 
